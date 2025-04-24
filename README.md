@@ -19,4 +19,4 @@ This script automatically:
 You can run it directly with:
 
 ```bash
-bash <(wget -qO- https://raw.githubusercontent.com/0LB-i/fix-centos-repos/main/fix-centos-repos.sh)
+bash <(curl -s https://raw.githubusercontent.com/0LB-i/fix-centos-repos/main/fix-centos-repos.sh)
