@@ -33,6 +33,3 @@ EOF
 
 # Clean and update the yum cache
 yum clean all && yum makecache
-
-# Remove the script itself
-rm -- "$0"
